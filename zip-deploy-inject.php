@@ -1,11 +1,5 @@
 <?php
-/*
-Plugin Name: Zip Deploy Inject
-Description: Plugin para inserir códigos JS em elementos HTML do Elementor
-Version: 1.0
-Author: ZipCloud
-
-*/
+/* 
 
 // Função para adicionar os códigos JS nos elementos HTML do Elementor
 function inserir_codigos_js_no_elementor($content) {
